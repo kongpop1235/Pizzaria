@@ -204,7 +204,7 @@ button:hover {
 }
 
 #bg-h-img {
-    background: url('/img/bg_header.png');
+    background: url('../img/bg_header.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -212,7 +212,7 @@ button:hover {
 }
 
 #bg-img-menu {
-    background: url('/img/bg-menu.png');
+    background: url('../img/bg-menu.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -220,7 +220,7 @@ button:hover {
 }
 
 #bg-img-masterclass {
-    background: url('/img/bg-masterclass.png');
+    background: url('../img/bg-masterclass.png');
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -741,7 +741,7 @@ button:hover {
     width: 100%;
     display: block;
     position: absolute;
-    background: url('img/bg-news.png');
+    background: url('../img/bg-news.png');
     opacity: 0.7;
     background-position: right;
     background-repeat: no-repeat;
